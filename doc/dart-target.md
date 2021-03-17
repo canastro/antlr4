@@ -124,3 +124,5 @@ We have some logs in place that can ease the debugging process, in order to turn
 * PARSER_LIST_ATN_DECISIONS_DEBUG
 * PARSER_DFA_DEBUG
 * PARSER_RETRY_DEBUG
+
+If you're using flutter, you can define these variables by adding an `--dart-define` arguments, eg. `flutter run --dart-define LEXER_DEBUG=false`
