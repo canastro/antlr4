@@ -117,7 +117,7 @@ The expected output is:
 ```
 
 ### Debug
-We have some logs in place that can ease the debugging process, in order to turn these logs on you can enable the following environment variables:
+We have some logs in place that can ease the debugging process, in order to turn these logs on you can enable the following environment declarations:
 * LEXER_DEBUG
 * LEXER_DFA_DEBUG
 * PARSER_DEBUG
